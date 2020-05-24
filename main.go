@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "NewProject/routers"
+	_ "fnbroswer-service/routers"
 	"github.com/astaxie/beego"
 )
 
